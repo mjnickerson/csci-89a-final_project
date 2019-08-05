@@ -1,6 +1,6 @@
-# Project Title
+# Adversarial Attacks on Neural Automated Essay Scoring Systems 
 
-One Paragraph of project description goes here
+We valuate the success of NLP Adversarial Techniques against an Automated Essay Scoring 
 
 ## Getting Started
 
