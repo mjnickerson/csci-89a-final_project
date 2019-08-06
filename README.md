@@ -8,16 +8,16 @@ We valuate the success of NLP Adversarial Techniques against an Automated Essay 
 
 **Part 1 - Creating a Dual Scoring CNN system, as a Black Box to test.**
 * See:
-      * AES Blackbox- Dual CNN.ipynb
+    * AES Blackbox- Dual CNN.ipynb
 
 **Part 2 - Generating Adversarial Attacks.**
 * See:
-      * Adversarial Attack Perturbation Creator.ipynb
-      * Anchor Model using AES CNN Model.ipynb
+    * Adversarial Attack Perturbation Creator.ipynb
+    * Anchor Model using AES CNN Model.ipynb
 
 **Part 3 - Applying the attacks, and evaluating the results.**
 * See last section of:
-      * AES Blackbox- Dual CNN.ipynb
+    * AES Blackbox- Dual CNN.ipynb
 
 ### Prerequisites
 
