@@ -1,7 +1,7 @@
 # Adversarial Attacks on Neural Automated Essay Scoring Systems 
 # Lee, Michael & Nickerson, Micah
 
-# Harvard University Extension
+# Harvard University Summer
 # CSCI-S-89A- FINAL PROJECT
 
 We valuate the success of NLP Adversarial Techniques against an Automated Essay Scoring System "Black box"
