@@ -1,4 +1,4 @@
-# Adversarial Attacks on                                                                  Neural Automated Essay Scoring Systems 
+# Adversarial Attacks on Neural Automated Essay Scoring Systems 
 # Lee, Michael & Nickerson, Micah
 
 # Harvard University Summer
