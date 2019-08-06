@@ -1,5 +1,5 @@
 # Adversarial Attacks on Neural Automated Essay Scoring Systems 
-# Lee, Michael & Nickerson, Micah
+# Michael Lee & Micah Nickerson
 
 # Harvard University Summer
 # CSCI-S-89A- FINAL PROJECT
