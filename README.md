@@ -1,80 +1,59 @@
 # Adversarial Attacks on Neural Automated Essay Scoring Systems 
+# Lee, Michael & Nickerson, Micah
 
-We valuate the success of NLP Adversarial Techniques against an Automated Essay Scoring 
+# Harvard University Extension
+# CSCI-S-89A- FINAL PROJECT
 
-## Getting Started
+We valuate the success of NLP Adversarial Techniques against an Automated Essay Scoring System "Black box"
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Part 1 - Creating a Dual Scoring CNN system, as a Black Box to test
+* See notebook 1
+
+Part 2 - Generating Adversarial Attacks
+* See notebook 2A and 2B
+
+Part 3 - Applying the attacks, and evaluating the results.
+* See last section of notebook 1
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* All libraries required are listed in built with below.
 
-```
-Give examples
-```
+* GloVe Embedding Vector sets (by Stanford University) must be downloaded into Data set/GloVe
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+* Final Blackbox H5 models are available upon request
 
-Say what the step will be
+* Recommended to run code on Google colab
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+* Notebook 1 is designed to both train the black box, evaluate the black box, and adversarially attack the black box.
+The input line specifying this function is in FIRST code section of notebook 1.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python 3.7](https://www.python.org/downloads/release/python-370/) - Interpreted language utilized 
+* [Google Colab](https://colab.research.google.com) - Neural Network written and Trained on GPU at Google Colab
+* [Keras 1.14.0](https://keras.io/) - Deep Learning Neural Network Architecture
+* [Tensorflow 2.0](https://www.tensorflow.org/) - Neural Network Backend by Google 
+* [Anaconda 3](https://www.anaconda.com/distribution/) - Primary distribution, library sources used
+* [Jupyter Notebook](https://jupyter.org/) - Local Notebook Host
+* [Matplotlib](https://matplotlib.org/) - Visualization library
+* [Numpy](https://numpy.org/) - Array and matrix library
+* [Pandas](https://pandas.pydata.org/) - Data Frame library
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please contact us for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Versioning has not been established - project is to be published once.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Michael Lee** - *Initial work* - Harvard University Extension
+* **Micah Nickerson** - *Initial work* - [mjnickerson](https://github.com/mjnickerson/) - Harvard University Extension
 
 ## License
 
@@ -82,6 +61,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* This project is based on a foundational paper by David Lang and Klint Kanopka at Stanford University. 
+
+- Lang, K. K. a., Adversarial Examples for Neural Automatic Essay Scoring Systems. Stanford University cs224n/15720509, (2019).
+
+* Also thanks to Yoon Kim for his work on classifying sentences with CNN, which was a primary reference.
+
+- Kim, Yoon. Convolutional neural networks for sentence classification. arXiv preprint
+arXiv:1408.5882, (2014).
