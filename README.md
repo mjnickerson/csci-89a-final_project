@@ -6,13 +6,13 @@
 
 We valuate the success of NLP Adversarial Techniques against an Automated Essay Scoring System "Black box"
 
-Part 1 - Creating a Dual Scoring CNN system, as a Black Box to test
+**Part 1 - Creating a Dual Scoring CNN system, as a Black Box to test.**
 * See notebook 1
 
-Part 2 - Generating Adversarial Attacks
+**Part 2 - Generating Adversarial Attacks.**
 * See notebook 2A and 2B
 
-Part 3 - Applying the attacks, and evaluating the results.
+**Part 3 - Applying the attacks, and evaluating the results.**
 * See last section of notebook 1
 
 ### Prerequisites
@@ -63,9 +63,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * This project is based on a foundational paper by David Lang and Klint Kanopka at Stanford University. 
 
-- Lang, K. K. a., Adversarial Examples for Neural Automatic Essay Scoring Systems. Stanford University cs224n/15720509, (2019).
+    *  Lang, K. K. a., Adversarial Examples for Neural Automatic Essay Scoring Systems. Stanford University cs224n/15720509, (2019).
 
 * Also thanks to Yoon Kim for his work on classifying sentences with CNN, which was a primary reference.
 
-- Kim, Yoon. Convolutional neural networks for sentence classification. arXiv preprint
-arXiv:1408.5882, (2014).
+    * Kim, Yoon. Convolutional neural networks for sentence classification. arXiv preprint
+      arXiv:1408.5882, (2014).
