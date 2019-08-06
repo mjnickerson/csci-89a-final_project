@@ -65,6 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* Thank you to Professor Zoran Djordjevic and the TA staff of Harvard University Summer CSCI-S89A for their input and support.
+
 * This project is based on a foundational paper by David Lang and Klint Kanopka at Stanford University. 
 
     *  Lang, K. K. a., Adversarial Examples for Neural Automatic Essay Scoring Systems. Stanford University cs224n/15720509, (2019).
