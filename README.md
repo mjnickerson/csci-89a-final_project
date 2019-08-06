@@ -56,7 +56,7 @@ Versioning has not been established - project is to be published once.
 
 ## Authors
 
-* **Michael Lee** - *Initial work* - mil726@g.harvard.edu - [cello1357](https://github.com/cello1357)   Harvard University Extension
+* **Michael Lee** - *Initial work* - mil726@g.harvard.edu - [cello1357](https://github.com/cello1357) -  Harvard University Extension
 * **Micah Nickerson** - *Initial work* - min021@g.harvard.edu - [mjnickerson](https://github.com/mjnickerson/) - Harvard University Extension
 
 ## License
