@@ -4,7 +4,7 @@
 # Harvard University Summer
 # CSCI-S-89A- FINAL PROJECT
 
-We evaluate the success of NLP Adversarial Techniques against an Automated Essay Scoring System "Black box"
+We evaluate the success of NLP Adversarial Techniques against an Automated Essay Scoring System "Black Box."
 
 **Part 1 - Creating a Dual Scoring CNN system, as a Black Box to test.**
 * See:
