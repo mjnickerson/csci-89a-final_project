@@ -57,7 +57,7 @@ Versioning has not been established - project is to be published once.
 ## Authors
 
 * **Michael Lee** - *Initial work* - Harvard University Extension
-* **Micah Nickerson** - *Initial work* - [mjnickerson](https://github.com/mjnickerson/) - Harvard University Extension
+* **Micah Nickerson** - *Initial work* - min021@g.harvard.edu - [mjnickerson](https://github.com/mjnickerson/) - Harvard University Extension
 
 ## License
 
