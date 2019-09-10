@@ -36,7 +36,7 @@ The input line specifying this function is in FIRST code section of notebook *"A
 
 ## Built With
 
-* [Python 3.7](https://www.python.org/downloads/release/python-370/) - Interpreted language utilized 
+* [Python 3.7.3](https://www.python.org/downloads/release/python-370/) - Interpreted language utilized 
 * [Google Colab](https://colab.research.google.com) - Neural Network written and Trained on GPU at Google Colab
 * [Keras 1.14.0](https://keras.io/) - Deep Learning Neural Network Architecture
 * [Tensorflow 2.0](https://www.tensorflow.org/) - Neural Network Backend by Google 
