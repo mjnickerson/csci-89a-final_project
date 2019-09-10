@@ -61,7 +61,7 @@ Versioning has not been established - project is to be published once.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
